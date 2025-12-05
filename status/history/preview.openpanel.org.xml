@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<domain_history domain="preview.openpanel.org">
+  <entry>
+    <timestamp>2025-12-05 15:12:39</timestamp>
+    <whois_ok>True</whois_ok>
+    <ssl_ok>True</ssl_ok>
+    <http_status>200</http_status>
+    <http_ok>True</http_ok>
+    <http_response_time_ms>229.78</http_response_time_ms>
+    <resolved_ip>172.67.182.109</resolved_ip>
+  </entry>
+  <extra>
+    <ip_address>20.169.74.98</ip_address>
+    <whois_expiry>2027-02-27</whois_expiry>
+    <nameservers>None</nameservers>
+    <registrar>PDR Ltd. d/b/a PublicDomainRegistry.com</registrar>
+    <ssl_expiry>2026-03-01</ssl_expiry>
+  </extra>
+</domain_history>
