@@ -24096,4 +24096,20 @@
     <registrar>PDR Ltd. d/b/a PublicDomainRegistry.com</registrar>
     <ssl_expiry>2026-01-27</ssl_expiry>
   </extra>
+  <entry>
+    <timestamp>2025-12-06 14:34:47</timestamp>
+    <whois_ok>True</whois_ok>
+    <ssl_ok>True</ssl_ok>
+    <http_status>200</http_status>
+    <http_ok>True</http_ok>
+    <http_response_time_ms>95.634</http_response_time_ms>
+    <resolved_ip>76.76.21.61</resolved_ip>
+  </entry>
+  <extra>
+    <ip_address>172.184.209.177</ip_address>
+    <whois_expiry>2027-03-10</whois_expiry>
+    <nameservers>None</nameservers>
+    <registrar>PDR Ltd. d/b/a PublicDomainRegistry.com</registrar>
+    <ssl_expiry>2026-01-27</ssl_expiry>
+  </extra>
 </domain_history>
