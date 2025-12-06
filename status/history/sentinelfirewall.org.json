@@ -8451,9 +8451,18 @@
       "http_ok": true,
       "http_response_time_ms": 279.746,
       "resolved_ip": "216.198.79.1"
+    },
+    {
+      "timestamp": "2025-12-06 07:11:11",
+      "whois_ok": true,
+      "ssl_ok": true,
+      "http_status": 200,
+      "http_ok": true,
+      "http_response_time_ms": 342.721,
+      "resolved_ip": "216.198.79.1"
     }
   ],
-  "ip_address": "48.211.213.35",
+  "ip_address": "52.161.74.199",
   "whois_expiry": "2026-09-28",
   "nameservers": null,
   "registrar": "Porkbun LLC",
