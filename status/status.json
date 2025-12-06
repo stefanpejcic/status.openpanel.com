@@ -3,15 +3,15 @@
     {
       "domain": "openpanel.com",
       "history_entry": {
-        "timestamp": "2025-12-06 11:32:18",
+        "timestamp": "2025-12-06 11:32:41",
         "whois_ok": true,
         "ssl_ok": true,
         "http_status": 200,
         "http_ok": true,
-        "http_response_time_ms": 230.58,
+        "http_response_time_ms": 119.335,
         "resolved_ip": "76.76.21.21"
       },
-      "ip_address": "20.171.126.212",
+      "ip_address": "52.234.40.192",
       "whois_expiry": "2027-03-10",
       "nameservers": null,
       "registrar": "PDR Ltd. d/b/a PublicDomainRegistry.com",
@@ -20,15 +20,15 @@
     {
       "domain": "https://sentinelfirewall.org",
       "history_entry": {
-        "timestamp": "2025-12-06 11:32:18",
+        "timestamp": "2025-12-06 11:32:42",
         "whois_ok": true,
         "ssl_ok": true,
         "http_status": 200,
         "http_ok": true,
-        "http_response_time_ms": 277.731,
+        "http_response_time_ms": 223.787,
         "resolved_ip": "216.198.79.1"
       },
-      "ip_address": "20.171.126.212",
+      "ip_address": "52.234.40.192",
       "whois_expiry": "2026-09-28",
       "nameservers": null,
       "registrar": "Porkbun LLC",
@@ -37,15 +37,15 @@
     {
       "domain": "openpanel.org",
       "history_entry": {
-        "timestamp": "2025-12-06 11:32:19",
+        "timestamp": "2025-12-06 11:32:42",
         "whois_ok": true,
         "ssl_ok": true,
         "http_status": 200,
         "http_ok": true,
-        "http_response_time_ms": 147.331,
-        "resolved_ip": "172.67.182.109"
+        "http_response_time_ms": 32.072,
+        "resolved_ip": "104.21.75.224"
       },
-      "ip_address": "20.171.126.212",
+      "ip_address": "52.234.40.192",
       "whois_expiry": "2027-02-27",
       "nameservers": null,
       "registrar": "PDR Ltd. d/b/a PublicDomainRegistry.com",
@@ -54,15 +54,15 @@
     {
       "domain": "ip.openpanel.com",
       "history_entry": {
-        "timestamp": "2025-12-06 11:32:19",
+        "timestamp": "2025-12-06 11:32:43",
         "whois_ok": true,
         "ssl_ok": true,
         "http_status": 200,
         "http_ok": true,
-        "http_response_time_ms": 192.292,
-        "resolved_ip": "76.76.21.142"
+        "http_response_time_ms": 85.263,
+        "resolved_ip": "76.76.21.22"
       },
-      "ip_address": "20.171.126.212",
+      "ip_address": "52.234.40.192",
       "whois_expiry": "2027-03-10",
       "nameservers": null,
       "registrar": "PDR Ltd. d/b/a PublicDomainRegistry.com",
@@ -71,15 +71,15 @@
     {
       "domain": "my.openpanel.com",
       "history_entry": {
-        "timestamp": "2025-12-06 11:32:20",
+        "timestamp": "2025-12-06 11:32:43",
         "whois_ok": true,
         "ssl_ok": false,
         "http_status": 200,
         "http_ok": true,
-        "http_response_time_ms": 600.5930000000001,
+        "http_response_time_ms": 672.951,
         "resolved_ip": "185.193.66.252"
       },
-      "ip_address": "20.171.126.212",
+      "ip_address": "52.234.40.192",
       "whois_expiry": "2027-03-10",
       "nameservers": null,
       "registrar": "PDR Ltd. d/b/a PublicDomainRegistry.com",
@@ -88,15 +88,15 @@
     {
       "domain": "dev.openpanel.com",
       "history_entry": {
-        "timestamp": "2025-12-06 11:32:20",
+        "timestamp": "2025-12-06 11:32:44",
         "whois_ok": true,
         "ssl_ok": true,
         "http_status": 200,
         "http_ok": true,
-        "http_response_time_ms": 112.668,
-        "resolved_ip": "76.76.21.61"
+        "http_response_time_ms": 131.728,
+        "resolved_ip": "76.76.21.241"
       },
-      "ip_address": "20.171.126.212",
+      "ip_address": "52.234.40.192",
       "whois_expiry": "2027-03-10",
       "nameservers": null,
       "registrar": "PDR Ltd. d/b/a PublicDomainRegistry.com",
@@ -105,15 +105,15 @@
     {
       "domain": "demo.openpanel.org:2087",
       "history_entry": {
-        "timestamp": "2025-12-06 11:32:21",
+        "timestamp": "2025-12-06 11:32:44",
         "whois_ok": true,
         "ssl_ok": true,
         "http_status": 200,
         "http_ok": true,
-        "http_response_time_ms": 167.623,
+        "http_response_time_ms": 175.068,
         "resolved_ip": "193.181.23.225"
       },
-      "ip_address": "20.171.126.212",
+      "ip_address": "52.234.40.192",
       "whois_expiry": "2027-02-27",
       "nameservers": null,
       "registrar": "PDR Ltd. d/b/a PublicDomainRegistry.com",
@@ -122,15 +122,15 @@
     {
       "domain": "community.openpanel.org",
       "history_entry": {
-        "timestamp": "2025-12-06 11:32:22",
+        "timestamp": "2025-12-06 11:32:45",
         "whois_ok": true,
         "ssl_ok": true,
         "http_status": 200,
         "http_ok": true,
-        "http_response_time_ms": 814.272,
-        "resolved_ip": "104.21.75.224"
+        "http_response_time_ms": 697.975,
+        "resolved_ip": "172.67.182.109"
       },
-      "ip_address": "20.171.126.212",
+      "ip_address": "52.234.40.192",
       "whois_expiry": "2027-02-27",
       "nameservers": null,
       "registrar": "PDR Ltd. d/b/a PublicDomainRegistry.com",
@@ -139,15 +139,15 @@
     {
       "domain": "preview.openpanel.org",
       "history_entry": {
-        "timestamp": "2025-12-06 11:32:23",
+        "timestamp": "2025-12-06 11:32:46",
         "whois_ok": true,
         "ssl_ok": true,
         "http_status": 200,
         "http_ok": true,
-        "http_response_time_ms": 215.85,
+        "http_response_time_ms": 185.735,
         "resolved_ip": "172.67.182.109"
       },
-      "ip_address": "20.171.126.212",
+      "ip_address": "52.234.40.192",
       "whois_expiry": "2027-02-27",
       "nameservers": null,
       "registrar": "PDR Ltd. d/b/a PublicDomainRegistry.com",
@@ -156,15 +156,15 @@
     {
       "domain": "php-versions-api.openpanel.org",
       "history_entry": {
-        "timestamp": "2025-12-06 11:32:24",
+        "timestamp": "2025-12-06 11:32:47",
         "whois_ok": true,
         "ssl_ok": true,
         "http_status": 200,
         "http_ok": true,
-        "http_response_time_ms": 233.337,
-        "resolved_ip": "172.67.182.109"
+        "http_response_time_ms": 221.616,
+        "resolved_ip": "104.21.75.224"
       },
-      "ip_address": "20.171.126.212",
+      "ip_address": "52.234.40.192",
       "whois_expiry": "2027-02-27",
       "nameservers": null,
       "registrar": "PDR Ltd. d/b/a PublicDomainRegistry.com",
@@ -173,21 +173,21 @@
     {
       "domain": "screenshots-v2.openpanel.com/api/screenshot/pejcic.rs",
       "history_entry": {
-        "timestamp": "2025-12-06 11:32:24",
+        "timestamp": "2025-12-06 11:32:47",
         "whois_ok": true,
         "ssl_ok": true,
         "http_status": 200,
         "http_ok": true,
-        "http_response_time_ms": 373.13,
-        "resolved_ip": "216.198.79.65"
+        "http_response_time_ms": 150.524,
+        "resolved_ip": "64.29.17.1"
       },
-      "ip_address": "20.171.126.212",
+      "ip_address": "52.234.40.192",
       "whois_expiry": "2027-03-10",
       "nameservers": null,
       "registrar": "PDR Ltd. d/b/a PublicDomainRegistry.com",
       "ssl_expiry": "2026-01-27"
     }
   ],
-  "last_updated": "2025-12-06 11:32:18",
-  "ip_address": "20.171.126.212"
+  "last_updated": "2025-12-06 11:32:41",
+  "ip_address": "52.234.40.192"
 }
