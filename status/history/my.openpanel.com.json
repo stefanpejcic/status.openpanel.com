@@ -9342,9 +9342,18 @@
       "http_ok": true,
       "http_response_time_ms": 538.157,
       "resolved_ip": "185.193.66.252"
+    },
+    {
+      "timestamp": "2025-12-06 08:13:49",
+      "whois_ok": true,
+      "ssl_ok": false,
+      "http_status": 200,
+      "http_ok": true,
+      "http_response_time_ms": 534.9359999999999,
+      "resolved_ip": "185.193.66.252"
     }
   ],
-  "ip_address": "135.232.225.24",
+  "ip_address": "64.236.135.129",
   "whois_expiry": "2027-03-10",
   "nameservers": null,
   "registrar": "PDR Ltd. d/b/a PublicDomainRegistry.com",
