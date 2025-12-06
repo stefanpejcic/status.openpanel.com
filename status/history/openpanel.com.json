@@ -15318,9 +15318,18 @@
       "http_ok": true,
       "http_response_time_ms": 68.51599999999999,
       "resolved_ip": "76.76.21.21"
+    },
+    {
+      "timestamp": "2025-12-06 17:08:44",
+      "whois_ok": true,
+      "ssl_ok": true,
+      "http_status": 200,
+      "http_ok": true,
+      "http_response_time_ms": 100.283,
+      "resolved_ip": "76.76.21.21"
     }
   ],
-  "ip_address": "52.190.182.227",
+  "ip_address": "64.236.134.226",
   "whois_expiry": "2027-03-10",
   "nameservers": null,
   "registrar": "PDR Ltd. d/b/a PublicDomainRegistry.com",
