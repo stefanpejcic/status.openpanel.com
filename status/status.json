@@ -9,12 +9,12 @@
         "clint.ns.cloudflare.com"
       ],
       "registrar": "PDR Ltd. d/b/a PublicDomainRegistry.com",
-      "http_status": null,
+      "http_status": 200,
       "whois_ok": true,
       "ssl_ok": true,
-      "http_ok": false,
-      "http_response_time_ms": null,
-      "resolved_ip": "104.21.35.165"
+      "http_ok": true,
+      "http_response_time_ms": 296.96,
+      "resolved_ip": "172.67.177.165"
     },
     {
       "domain": "openpanel.org",
@@ -29,8 +29,8 @@
       "whois_ok": true,
       "ssl_ok": true,
       "http_ok": true,
-      "http_response_time_ms": 58.698,
-      "resolved_ip": "172.67.182.109"
+      "http_response_time_ms": 88.619,
+      "resolved_ip": "104.21.75.224"
     },
     {
       "domain": "ip.openpanel.com",
@@ -41,11 +41,11 @@
         "clint.ns.cloudflare.com"
       ],
       "registrar": "PDR Ltd. d/b/a PublicDomainRegistry.com",
-      "http_status": null,
+      "http_status": 200,
       "whois_ok": true,
       "ssl_ok": true,
-      "http_ok": false,
-      "http_response_time_ms": null,
+      "http_ok": true,
+      "http_response_time_ms": 485.686,
       "resolved_ip": "185.119.91.54"
     },
     {
@@ -61,7 +61,7 @@
       "whois_ok": true,
       "ssl_ok": true,
       "http_ok": true,
-      "http_response_time_ms": 738.672,
+      "http_response_time_ms": 677.807,
       "resolved_ip": "185.7.32.100"
     },
     {
@@ -77,7 +77,7 @@
       "whois_ok": true,
       "ssl_ok": true,
       "http_ok": true,
-      "http_response_time_ms": 117.214,
+      "http_response_time_ms": 154.035,
       "resolved_ip": "185.7.32.52"
     },
     {
@@ -93,8 +93,8 @@
       "whois_ok": true,
       "ssl_ok": true,
       "http_ok": true,
-      "http_response_time_ms": 248.73999999999998,
-      "resolved_ip": "104.21.35.165"
+      "http_response_time_ms": 150.157,
+      "resolved_ip": "172.67.177.165"
     },
     {
       "domain": "community.openpanel.org",
@@ -105,12 +105,12 @@
         "clint.ns.cloudflare.com"
       ],
       "registrar": "PDR Ltd. d/b/a PublicDomainRegistry.com",
-      "http_status": null,
+      "http_status": 200,
       "whois_ok": true,
       "ssl_ok": true,
-      "http_ok": false,
-      "http_response_time_ms": null,
-      "resolved_ip": "104.21.75.224"
+      "http_ok": true,
+      "http_response_time_ms": 875.6500000000001,
+      "resolved_ip": "172.67.182.109"
     },
     {
       "domain": "support.openpanel.org",
@@ -121,11 +121,11 @@
         "pat.ns.cloudflare.com"
       ],
       "registrar": "PDR Ltd. d/b/a PublicDomainRegistry.com",
-      "http_status": null,
+      "http_status": 200,
       "whois_ok": true,
       "ssl_ok": true,
-      "http_ok": false,
-      "http_response_time_ms": null,
+      "http_ok": true,
+      "http_response_time_ms": 297.15799999999996,
       "resolved_ip": "104.21.75.224"
     },
     {
@@ -141,7 +141,7 @@
       "whois_ok": true,
       "ssl_ok": true,
       "http_ok": true,
-      "http_response_time_ms": 131.078,
+      "http_response_time_ms": 253.488,
       "resolved_ip": "104.21.75.224"
     },
     {
@@ -153,12 +153,12 @@
         "pat.ns.cloudflare.com"
       ],
       "registrar": "PDR Ltd. d/b/a PublicDomainRegistry.com",
-      "http_status": null,
+      "http_status": 200,
       "whois_ok": true,
       "ssl_ok": true,
-      "http_ok": false,
-      "http_response_time_ms": null,
-      "resolved_ip": "172.67.177.165"
+      "http_ok": true,
+      "http_response_time_ms": 365.798,
+      "resolved_ip": "104.21.35.165"
     },
     {
       "domain": "git.openpanel.org",
@@ -169,14 +169,14 @@
         "clint.ns.cloudflare.com"
       ],
       "registrar": "PDR Ltd. d/b/a PublicDomainRegistry.com",
-      "http_status": null,
+      "http_status": 200,
       "whois_ok": true,
       "ssl_ok": true,
-      "http_ok": false,
-      "http_response_time_ms": null,
+      "http_ok": true,
+      "http_response_time_ms": 447.106,
       "resolved_ip": "172.67.182.109"
     }
   ],
-  "last_updated": "2026-06-09 06:42:20",
-  "ip_address": "172.203.196.230"
+  "last_updated": "2026-06-09 10:29:11",
+  "ip_address": "172.200.183.241"
 }
