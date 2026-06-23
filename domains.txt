@@ -2,7 +2,6 @@ openpanel.com
 openpanel.org
 ip.openpanel.com
 my.openpanel.com
-demo.openpanel.org
 demo.openpanel.com
 community.openpanel.org
 support.openpanel.org
