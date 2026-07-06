@@ -7,4 +7,3 @@ community.openpanel.org
 support.openpanel.org
 preview.openpanel.org
 api.openpanel.com
-git.openpanel.org
