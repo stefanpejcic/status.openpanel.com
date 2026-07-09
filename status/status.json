@@ -9,11 +9,11 @@
         "clint.ns.cloudflare.com"
       ],
       "registrar": "PDR Ltd. d/b/a PublicDomainRegistry.com",
-      "http_status": 200,
+      "http_status": null,
       "whois_ok": true,
       "ssl_ok": true,
-      "http_ok": true,
-      "http_response_time_ms": 736.955,
+      "http_ok": false,
+      "http_response_time_ms": null,
       "resolved_ip": "172.67.177.165"
     },
     {
@@ -29,7 +29,7 @@
       "whois_ok": true,
       "ssl_ok": true,
       "http_ok": true,
-      "http_response_time_ms": 520.477,
+      "http_response_time_ms": 368.82599999999996,
       "resolved_ip": "172.67.182.109"
     },
     {
@@ -45,7 +45,7 @@
       "whois_ok": true,
       "ssl_ok": true,
       "http_ok": true,
-      "http_response_time_ms": 532.161,
+      "http_response_time_ms": 447.125,
       "resolved_ip": "185.119.91.54"
     },
     {
@@ -61,7 +61,7 @@
       "whois_ok": true,
       "ssl_ok": true,
       "http_ok": true,
-      "http_response_time_ms": 844.853,
+      "http_response_time_ms": 673.366,
       "resolved_ip": "185.7.32.100"
     },
     {
@@ -77,8 +77,8 @@
       "whois_ok": true,
       "ssl_ok": true,
       "http_ok": true,
-      "http_response_time_ms": 733.559,
-      "resolved_ip": "104.21.35.165"
+      "http_response_time_ms": 225.759,
+      "resolved_ip": "172.67.177.165"
     },
     {
       "domain": "community.openpanel.org",
@@ -93,7 +93,7 @@
       "whois_ok": true,
       "ssl_ok": true,
       "http_ok": true,
-      "http_response_time_ms": 673.534,
+      "http_response_time_ms": 657.865,
       "resolved_ip": "172.67.182.109"
     },
     {
@@ -109,8 +109,8 @@
       "whois_ok": true,
       "ssl_ok": true,
       "http_ok": true,
-      "http_response_time_ms": 555.939,
-      "resolved_ip": "172.67.182.109"
+      "http_response_time_ms": 377.247,
+      "resolved_ip": "104.21.75.224"
     },
     {
       "domain": "preview.openpanel.org",
@@ -125,7 +125,7 @@
       "whois_ok": true,
       "ssl_ok": true,
       "http_ok": true,
-      "http_response_time_ms": 169.11,
+      "http_response_time_ms": 132.772,
       "resolved_ip": "104.21.75.224"
     },
     {
@@ -141,10 +141,10 @@
       "whois_ok": true,
       "ssl_ok": true,
       "http_ok": true,
-      "http_response_time_ms": 714.784,
-      "resolved_ip": "104.21.35.165"
+      "http_response_time_ms": 551.727,
+      "resolved_ip": "172.67.177.165"
     }
   ],
-  "last_updated": "2026-07-09 10:51:16",
-  "ip_address": "128.24.160.225"
+  "last_updated": "2026-07-09 13:43:54",
+  "ip_address": "20.119.41.197"
 }
