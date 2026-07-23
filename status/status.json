@@ -2,19 +2,8 @@
   "domains": [
     {
       "domain": "openpanel.com",
-      "whois_expiry": "2027-03-10",
-      "ssl_expiry": "2026-08-27",
-      "nameservers": [
-        "pat.ns.cloudflare.com",
-        "clint.ns.cloudflare.com"
-      ],
-      "registrar": "PDR Ltd. d/b/a PublicDomainRegistry.com",
-      "http_status": 200,
-      "whois_ok": true,
-      "ssl_ok": true,
-      "http_ok": true,
-      "http_response_time_ms": 583.853,
-      "resolved_ip": "185.119.91.54"
+      "error": "type NoneType doesn't define __round__ method",
+      "timestamp": "2026-07-23 12:19:00"
     },
     {
       "domain": "openpanel.org",
@@ -25,11 +14,11 @@
         "clint.ns.cloudflare.com"
       ],
       "registrar": "PDR Ltd. d/b/a PublicDomainRegistry.com",
-      "http_status": 200,
+      "http_status": 521,
       "whois_ok": true,
       "ssl_ok": true,
-      "http_ok": true,
-      "http_response_time_ms": 619.3760000000001,
+      "http_ok": false,
+      "http_response_time_ms": 281.977,
       "resolved_ip": "172.67.182.109"
     },
     {
@@ -41,12 +30,12 @@
         "clint.ns.cloudflare.com"
       ],
       "registrar": "PDR Ltd. d/b/a PublicDomainRegistry.com",
-      "http_status": 200,
+      "http_status": 525,
       "whois_ok": true,
       "ssl_ok": false,
-      "http_ok": true,
-      "http_response_time_ms": 582.45,
-      "resolved_ip": "185.119.91.54"
+      "http_ok": false,
+      "http_response_time_ms": 3996.679,
+      "resolved_ip": "172.67.177.165"
     },
     {
       "domain": "my.openpanel.com",
@@ -61,7 +50,7 @@
       "whois_ok": true,
       "ssl_ok": true,
       "http_ok": true,
-      "http_response_time_ms": 929.1700000000001,
+      "http_response_time_ms": 766.521,
       "resolved_ip": "185.7.32.100"
     },
     {
@@ -73,12 +62,12 @@
         "pat.ns.cloudflare.com"
       ],
       "registrar": "PDR Ltd. d/b/a PublicDomainRegistry.com",
-      "http_status": 200,
+      "http_status": 525,
       "whois_ok": true,
       "ssl_ok": true,
-      "http_ok": true,
-      "http_response_time_ms": 475.006,
-      "resolved_ip": "172.67.177.165"
+      "http_ok": false,
+      "http_response_time_ms": 7578.058,
+      "resolved_ip": "104.21.35.165"
     },
     {
       "domain": "community.openpanel.org",
@@ -89,12 +78,12 @@
         "clint.ns.cloudflare.com"
       ],
       "registrar": "PDR Ltd. d/b/a PublicDomainRegistry.com",
-      "http_status": 200,
+      "http_status": 521,
       "whois_ok": true,
       "ssl_ok": true,
-      "http_ok": true,
-      "http_response_time_ms": 991.87,
-      "resolved_ip": "172.67.182.109"
+      "http_ok": false,
+      "http_response_time_ms": 286.932,
+      "resolved_ip": "104.21.75.224"
     },
     {
       "domain": "support.openpanel.org",
@@ -105,12 +94,12 @@
         "pat.ns.cloudflare.com"
       ],
       "registrar": "PDR Ltd. d/b/a PublicDomainRegistry.com",
-      "http_status": 200,
+      "http_status": 521,
       "whois_ok": true,
       "ssl_ok": true,
-      "http_ok": true,
-      "http_response_time_ms": 671.807,
-      "resolved_ip": "104.21.75.224"
+      "http_ok": false,
+      "http_response_time_ms": 163.73,
+      "resolved_ip": "172.67.182.109"
     },
     {
       "domain": "preview.openpanel.org",
@@ -125,7 +114,7 @@
       "whois_ok": true,
       "ssl_ok": true,
       "http_ok": true,
-      "http_response_time_ms": 218.632,
+      "http_response_time_ms": 121.007,
       "resolved_ip": "172.67.182.109"
     },
     {
@@ -137,14 +126,14 @@
         "pat.ns.cloudflare.com"
       ],
       "registrar": "PDR Ltd. d/b/a PublicDomainRegistry.com",
-      "http_status": 200,
+      "http_status": 525,
       "whois_ok": true,
       "ssl_ok": true,
-      "http_ok": true,
-      "http_response_time_ms": 897.386,
-      "resolved_ip": "172.67.177.165"
+      "http_ok": false,
+      "http_response_time_ms": 3711.6600000000003,
+      "resolved_ip": "104.21.35.165"
     }
   ],
-  "last_updated": "2026-07-23 10:11:38",
-  "ip_address": "4.242.44.215"
+  "last_updated": "2026-07-23 12:18:54",
+  "ip_address": "172.178.118.87"
 }
