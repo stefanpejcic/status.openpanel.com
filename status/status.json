@@ -13,8 +13,8 @@
       "whois_ok": true,
       "ssl_ok": true,
       "http_ok": true,
-      "http_response_time_ms": 854.658,
-      "resolved_ip": "172.67.177.165"
+      "http_response_time_ms": 806.8610000000001,
+      "resolved_ip": "104.21.35.165"
     },
     {
       "domain": "openpanel.org",
@@ -29,7 +29,7 @@
       "whois_ok": true,
       "ssl_ok": true,
       "http_ok": true,
-      "http_response_time_ms": 459.831,
+      "http_response_time_ms": 448.175,
       "resolved_ip": "172.67.182.109"
     },
     {
@@ -45,8 +45,8 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 826.275,
-      "resolved_ip": "172.67.182.109"
+      "http_response_time_ms": 790.13,
+      "resolved_ip": "104.21.75.224"
     },
     {
       "domain": "my.openpanel.com",
@@ -61,7 +61,7 @@
       "whois_ok": true,
       "ssl_ok": true,
       "http_ok": true,
-      "http_response_time_ms": 911.922,
+      "http_response_time_ms": 938.828,
       "resolved_ip": "185.119.90.100"
     },
     {
@@ -77,8 +77,8 @@
       "whois_ok": true,
       "ssl_ok": true,
       "http_ok": true,
-      "http_response_time_ms": 179.062,
-      "resolved_ip": "172.67.177.165"
+      "http_response_time_ms": 178.977,
+      "resolved_ip": "104.21.35.165"
     },
     {
       "domain": "community.openpanel.org",
@@ -93,8 +93,8 @@
       "whois_ok": true,
       "ssl_ok": true,
       "http_ok": true,
-      "http_response_time_ms": 609.351,
-      "resolved_ip": "172.67.182.109"
+      "http_response_time_ms": 577.624,
+      "resolved_ip": "104.21.75.224"
     },
     {
       "domain": "support.openpanel.org",
@@ -109,8 +109,8 @@
       "whois_ok": true,
       "ssl_ok": true,
       "http_ok": true,
-      "http_response_time_ms": 424.89300000000003,
-      "resolved_ip": "104.21.75.224"
+      "http_response_time_ms": 411.107,
+      "resolved_ip": "172.67.182.109"
     },
     {
       "domain": "preview.openpanel.org",
@@ -125,7 +125,7 @@
       "whois_ok": true,
       "ssl_ok": true,
       "http_ok": true,
-      "http_response_time_ms": 348.215,
+      "http_response_time_ms": 179.48600000000002,
       "resolved_ip": "104.21.75.224"
     },
     {
@@ -141,10 +141,10 @@
       "whois_ok": true,
       "ssl_ok": true,
       "http_ok": true,
-      "http_response_time_ms": 555.015,
+      "http_response_time_ms": 590.401,
       "resolved_ip": "185.119.90.100"
     }
   ],
-  "last_updated": "2026-08-08 07:40:52",
-  "ip_address": "52.159.229.161"
+  "last_updated": "2026-08-08 08:28:31",
+  "ip_address": "4.154.117.243"
 }
