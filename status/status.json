@@ -13,7 +13,7 @@
       "whois_ok": true,
       "ssl_ok": true,
       "http_ok": true,
-      "http_response_time_ms": 313.104,
+      "http_response_time_ms": 265.68,
       "resolved_ip": "172.67.177.165"
     },
     {
@@ -25,12 +25,12 @@
         "clint.ns.cloudflare.com"
       ],
       "registrar": "PDR Ltd. d/b/a PublicDomainRegistry.com",
-      "http_status": 200,
+      "http_status": 502,
       "whois_ok": true,
       "ssl_ok": true,
-      "http_ok": true,
-      "http_response_time_ms": 597.518,
-      "resolved_ip": "172.67.182.109"
+      "http_ok": false,
+      "http_response_time_ms": 605.029,
+      "resolved_ip": "104.21.75.224"
     },
     {
       "domain": "ip.openpanel.com",
@@ -41,11 +41,11 @@
         "clint.ns.cloudflare.com"
       ],
       "registrar": "PDR Ltd. d/b/a PublicDomainRegistry.com",
-      "http_status": 200,
+      "http_status": 502,
       "whois_ok": true,
       "ssl_ok": false,
-      "http_ok": true,
-      "http_response_time_ms": 1129.8919999999998,
+      "http_ok": false,
+      "http_response_time_ms": 1029.094,
       "resolved_ip": "172.67.182.109"
     },
     {
@@ -57,11 +57,11 @@
         "pat.ns.cloudflare.com"
       ],
       "registrar": "PDR Ltd. d/b/a PublicDomainRegistry.com",
-      "http_status": 200,
+      "http_status": 502,
       "whois_ok": true,
       "ssl_ok": true,
-      "http_ok": true,
-      "http_response_time_ms": 959.2610000000001,
+      "http_ok": false,
+      "http_response_time_ms": 451.35999999999996,
       "resolved_ip": "185.119.90.100"
     },
     {
@@ -77,8 +77,8 @@
       "whois_ok": true,
       "ssl_ok": true,
       "http_ok": true,
-      "http_response_time_ms": 185.34300000000002,
-      "resolved_ip": "172.67.177.165"
+      "http_response_time_ms": 160.966,
+      "resolved_ip": "104.21.35.165"
     },
     {
       "domain": "community.openpanel.org",
@@ -93,7 +93,7 @@
       "whois_ok": true,
       "ssl_ok": true,
       "http_ok": true,
-      "http_response_time_ms": 337.944,
+      "http_response_time_ms": 319.612,
       "resolved_ip": "172.67.182.109"
     },
     {
@@ -105,11 +105,11 @@
         "pat.ns.cloudflare.com"
       ],
       "registrar": "PDR Ltd. d/b/a PublicDomainRegistry.com",
-      "http_status": 200,
+      "http_status": 502,
       "whois_ok": true,
       "ssl_ok": true,
-      "http_ok": true,
-      "http_response_time_ms": 416.95300000000003,
+      "http_ok": false,
+      "http_response_time_ms": 539.042,
       "resolved_ip": "172.67.182.109"
     },
     {
@@ -121,11 +121,11 @@
         "pat.ns.cloudflare.com"
       ],
       "registrar": "PDR Ltd. d/b/a PublicDomainRegistry.com",
-      "http_status": null,
+      "http_status": 200,
       "whois_ok": true,
       "ssl_ok": true,
-      "http_ok": false,
-      "http_response_time_ms": null,
+      "http_ok": true,
+      "http_response_time_ms": 313.387,
       "resolved_ip": "104.21.75.224"
     },
     {
@@ -137,14 +137,14 @@
         "pat.ns.cloudflare.com"
       ],
       "registrar": "PDR Ltd. d/b/a PublicDomainRegistry.com",
-      "http_status": 200,
+      "http_status": 502,
       "whois_ok": true,
       "ssl_ok": true,
-      "http_ok": true,
-      "http_response_time_ms": 551.237,
+      "http_ok": false,
+      "http_response_time_ms": 542.83,
       "resolved_ip": "185.119.90.100"
     }
   ],
-  "last_updated": "2026-08-11 14:12:41",
-  "ip_address": "4.155.255.50"
+  "last_updated": "2026-08-11 15:51:16",
+  "ip_address": "172.215.146.233"
 }
