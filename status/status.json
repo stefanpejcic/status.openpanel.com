@@ -13,8 +13,8 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 251.212,
-      "resolved_ip": "172.67.177.165"
+      "http_response_time_ms": 288.48400000000004,
+      "resolved_ip": "104.21.35.165"
     },
     {
       "domain": "openpanel.org",
@@ -29,8 +29,8 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 706.155,
-      "resolved_ip": "104.21.75.224"
+      "http_response_time_ms": 661.378,
+      "resolved_ip": "172.67.182.109"
     },
     {
       "domain": "ip.openpanel.com",
@@ -45,8 +45,8 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 866.333,
-      "resolved_ip": "172.67.182.109"
+      "http_response_time_ms": 827.855,
+      "resolved_ip": "104.21.75.224"
     },
     {
       "domain": "my.openpanel.com",
@@ -61,7 +61,7 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 981.127,
+      "http_response_time_ms": 955.2850000000001,
       "resolved_ip": "185.119.90.100"
     },
     {
@@ -77,8 +77,8 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 210.22,
-      "resolved_ip": "104.21.35.165"
+      "http_response_time_ms": 209.93300000000002,
+      "resolved_ip": "172.67.177.165"
     },
     {
       "domain": "community.openpanel.org",
@@ -93,8 +93,8 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 409.549,
-      "resolved_ip": "172.67.182.109"
+      "http_response_time_ms": 384.361,
+      "resolved_ip": "104.21.75.224"
     },
     {
       "domain": "support.openpanel.org",
@@ -109,13 +109,13 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 422.499,
+      "http_response_time_ms": 440.289,
       "resolved_ip": "172.67.182.109"
     },
     {
       "domain": "preview.openpanel.org",
       "error": "type NoneType doesn't define __round__ method",
-      "timestamp": "2026-08-24 22:15:58"
+      "timestamp": "2026-08-24 23:14:40"
     },
     {
       "domain": "api.openpanel.com",
@@ -130,10 +130,10 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 541.394,
+      "http_response_time_ms": 543.939,
       "resolved_ip": "185.119.90.100"
     }
   ],
-  "last_updated": "2026-08-24 22:15:52",
-  "ip_address": "20.169.94.66"
+  "last_updated": "2026-08-24 23:14:33",
+  "ip_address": "20.168.100.245"
 }
