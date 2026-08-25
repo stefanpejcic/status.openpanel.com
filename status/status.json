@@ -13,7 +13,7 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 288.42,
+      "http_response_time_ms": 314.672,
       "resolved_ip": "104.21.35.165"
     },
     {
@@ -29,7 +29,7 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 377.738,
+      "http_response_time_ms": 560.7339999999999,
       "resolved_ip": "104.21.75.224"
     },
     {
@@ -45,8 +45,8 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 869.466,
-      "resolved_ip": "104.21.75.224"
+      "http_response_time_ms": 840.039,
+      "resolved_ip": "172.67.182.109"
     },
     {
       "domain": "my.openpanel.com",
@@ -61,7 +61,7 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 915.814,
+      "http_response_time_ms": 1002.488,
       "resolved_ip": "185.119.90.100"
     },
     {
@@ -77,8 +77,8 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 150.62,
-      "resolved_ip": "104.21.35.165"
+      "http_response_time_ms": 179.088,
+      "resolved_ip": "172.67.177.165"
     },
     {
       "domain": "community.openpanel.org",
@@ -93,8 +93,8 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 299.333,
-      "resolved_ip": "104.21.75.224"
+      "http_response_time_ms": 323.346,
+      "resolved_ip": "172.67.182.109"
     },
     {
       "domain": "support.openpanel.org",
@@ -109,13 +109,13 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 514.486,
-      "resolved_ip": "104.21.75.224"
+      "http_response_time_ms": 441.89099999999996,
+      "resolved_ip": "172.67.182.109"
     },
     {
       "domain": "preview.openpanel.org",
       "error": "type NoneType doesn't define __round__ method",
-      "timestamp": "2026-08-25 02:12:50"
+      "timestamp": "2026-08-25 03:40:00"
     },
     {
       "domain": "api.openpanel.com",
@@ -130,10 +130,10 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 549.285,
+      "http_response_time_ms": 569.31,
       "resolved_ip": "185.119.90.100"
     }
   ],
-  "last_updated": "2026-08-25 02:12:44",
-  "ip_address": "128.203.190.116"
+  "last_updated": "2026-08-25 03:39:53",
+  "ip_address": "52.159.246.6"
 }
