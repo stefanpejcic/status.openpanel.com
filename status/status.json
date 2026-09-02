@@ -13,8 +13,8 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 211.564,
-      "resolved_ip": "172.67.177.165"
+      "http_response_time_ms": 271.752,
+      "resolved_ip": "104.21.35.165"
     },
     {
       "domain": "openpanel.org",
@@ -29,8 +29,8 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 713.697,
-      "resolved_ip": "172.67.182.109"
+      "http_response_time_ms": 465.04699999999997,
+      "resolved_ip": "104.21.75.224"
     },
     {
       "domain": "ip.openpanel.com",
@@ -45,8 +45,8 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 989.7869999999999,
-      "resolved_ip": "104.21.75.224"
+      "http_response_time_ms": 837.387,
+      "resolved_ip": "172.67.182.109"
     },
     {
       "domain": "my.openpanel.com",
@@ -61,7 +61,7 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 995.332,
+      "http_response_time_ms": 847.095,
       "resolved_ip": "185.119.90.100"
     },
     {
@@ -77,8 +77,8 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 177.284,
-      "resolved_ip": "172.67.177.165"
+      "http_response_time_ms": 133.649,
+      "resolved_ip": "104.21.35.165"
     },
     {
       "domain": "community.openpanel.org",
@@ -93,7 +93,7 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 318.02200000000005,
+      "http_response_time_ms": 302.662,
       "resolved_ip": "172.67.182.109"
     },
     {
@@ -109,13 +109,13 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": false,
-      "http_response_time_ms": 453.34200000000004,
-      "resolved_ip": "104.21.75.224"
+      "http_response_time_ms": 514.765,
+      "resolved_ip": "172.67.182.109"
     },
     {
       "domain": "preview.openpanel.org",
       "error": "type NoneType doesn't define __round__ method",
-      "timestamp": "2026-09-02 19:33:49"
+      "timestamp": "2026-09-02 22:10:06"
     },
     {
       "domain": "api.openpanel.com",
@@ -130,10 +130,10 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 593.645,
+      "http_response_time_ms": 440.693,
       "resolved_ip": "185.119.90.100"
     }
   ],
-  "last_updated": "2026-09-02 19:33:42",
-  "ip_address": "52.233.94.89"
+  "last_updated": "2026-09-02 22:10:00",
+  "ip_address": "135.232.184.214"
 }
