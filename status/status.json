@@ -13,7 +13,7 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 253.355,
+      "http_response_time_ms": 212.654,
       "resolved_ip": "104.21.35.165"
     },
     {
@@ -29,7 +29,7 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 376.073,
+      "http_response_time_ms": 664.972,
       "resolved_ip": "104.21.75.224"
     },
     {
@@ -45,7 +45,7 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 740.1450000000001,
+      "http_response_time_ms": 1039.671,
       "resolved_ip": "172.67.182.109"
     },
     {
@@ -61,7 +61,7 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 765.097,
+      "http_response_time_ms": 990.593,
       "resolved_ip": "185.119.90.100"
     },
     {
@@ -77,7 +77,7 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 489.10900000000004,
+      "http_response_time_ms": 176.873,
       "resolved_ip": "104.21.35.165"
     },
     {
@@ -93,7 +93,7 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 311.21999999999997,
+      "http_response_time_ms": 364.34499999999997,
       "resolved_ip": "104.21.75.224"
     },
     {
@@ -109,13 +109,13 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": false,
-      "http_response_time_ms": 391.447,
-      "resolved_ip": "172.67.182.109"
+      "http_response_time_ms": 588.511,
+      "resolved_ip": "104.21.75.224"
     },
     {
       "domain": "preview.openpanel.org",
       "error": "type NoneType doesn't define __round__ method",
-      "timestamp": "2026-09-03 00:52:21"
+      "timestamp": "2026-09-03 05:21:48"
     },
     {
       "domain": "api.openpanel.com",
@@ -130,10 +130,10 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 503.32,
+      "http_response_time_ms": 546.226,
       "resolved_ip": "185.119.90.100"
     }
   ],
-  "last_updated": "2026-09-03 00:52:15",
-  "ip_address": "64.236.135.10"
+  "last_updated": "2026-09-03 05:21:40",
+  "ip_address": "4.155.134.51"
 }
