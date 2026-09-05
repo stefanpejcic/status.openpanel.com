@@ -13,8 +13,8 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 207.892,
-      "resolved_ip": "104.21.35.165"
+      "http_response_time_ms": 207.91299999999998,
+      "resolved_ip": "172.67.177.165"
     },
     {
       "domain": "openpanel.org",
@@ -29,7 +29,7 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 511.575,
+      "http_response_time_ms": 664.132,
       "resolved_ip": "104.21.75.224"
     },
     {
@@ -45,8 +45,8 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 810.166,
-      "resolved_ip": "172.67.182.109"
+      "http_response_time_ms": 1036.769,
+      "resolved_ip": "104.21.75.224"
     },
     {
       "domain": "my.openpanel.com",
@@ -61,7 +61,7 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 768.193,
+      "http_response_time_ms": 981.88,
       "resolved_ip": "185.119.90.100"
     },
     {
@@ -93,8 +93,8 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 258.14799999999997,
-      "resolved_ip": "104.21.75.224"
+      "http_response_time_ms": 318.212,
+      "resolved_ip": "172.67.182.109"
     },
     {
       "domain": "support.openpanel.org",
@@ -109,13 +109,13 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": false,
-      "http_response_time_ms": 342.948,
+      "http_response_time_ms": 443.714,
       "resolved_ip": "104.21.75.224"
     },
     {
       "domain": "preview.openpanel.org",
       "error": "type NoneType doesn't define __round__ method",
-      "timestamp": "2026-09-05 21:48:31"
+      "timestamp": "2026-09-05 23:27:46"
     },
     {
       "domain": "api.openpanel.com",
@@ -130,10 +130,10 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 413.09000000000003,
+      "http_response_time_ms": 550.6959999999999,
       "resolved_ip": "185.119.90.100"
     }
   ],
-  "last_updated": "2026-09-05 21:48:14",
-  "ip_address": "64.236.133.129"
+  "last_updated": "2026-09-05 23:27:29",
+  "ip_address": "52.159.246.5"
 }
