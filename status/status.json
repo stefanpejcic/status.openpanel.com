@@ -13,8 +13,8 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 119.646,
-      "resolved_ip": "172.67.177.165"
+      "http_response_time_ms": 121.536,
+      "resolved_ip": "104.21.35.165"
     },
     {
       "domain": "openpanel.org",
@@ -29,7 +29,7 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 467.497,
+      "http_response_time_ms": 313.339,
       "resolved_ip": "172.67.182.109"
     },
     {
@@ -45,8 +45,8 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 567.616,
-      "resolved_ip": "104.21.75.224"
+      "http_response_time_ms": 734.932,
+      "resolved_ip": "172.67.182.109"
     },
     {
       "domain": "my.openpanel.com",
@@ -61,7 +61,7 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 783.384,
+      "http_response_time_ms": 768.38,
       "resolved_ip": "185.119.90.100"
     },
     {
@@ -93,7 +93,7 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 212.309,
+      "http_response_time_ms": 256.467,
       "resolved_ip": "104.21.75.224"
     },
     {
@@ -109,13 +109,13 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": false,
-      "http_response_time_ms": 300.651,
+      "http_response_time_ms": 408.702,
       "resolved_ip": "172.67.182.109"
     },
     {
       "domain": "preview.openpanel.org",
       "error": "type NoneType doesn't define __round__ method",
-      "timestamp": "2026-09-05 11:29:22"
+      "timestamp": "2026-09-05 14:15:17"
     },
     {
       "domain": "api.openpanel.com",
@@ -130,10 +130,10 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 413.777,
+      "http_response_time_ms": 386.591,
       "resolved_ip": "185.119.90.100"
     }
   ],
-  "last_updated": "2026-09-05 11:29:07",
-  "ip_address": "145.132.102.178"
+  "last_updated": "2026-09-05 14:15:02",
+  "ip_address": "20.161.71.54"
 }
