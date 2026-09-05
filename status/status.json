@@ -13,7 +13,7 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 177.04600000000002,
+      "http_response_time_ms": 119.646,
       "resolved_ip": "172.67.177.165"
     },
     {
@@ -29,7 +29,7 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 487.33799999999997,
+      "http_response_time_ms": 467.497,
       "resolved_ip": "172.67.182.109"
     },
     {
@@ -45,7 +45,7 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 769.758,
+      "http_response_time_ms": 567.616,
       "resolved_ip": "104.21.75.224"
     },
     {
@@ -61,7 +61,7 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 834.078,
+      "http_response_time_ms": 783.384,
       "resolved_ip": "185.119.90.100"
     },
     {
@@ -93,7 +93,7 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 235.667,
+      "http_response_time_ms": 212.309,
       "resolved_ip": "104.21.75.224"
     },
     {
@@ -109,13 +109,13 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": false,
-      "http_response_time_ms": 410.999,
-      "resolved_ip": "104.21.75.224"
+      "http_response_time_ms": 300.651,
+      "resolved_ip": "172.67.182.109"
     },
     {
       "domain": "preview.openpanel.org",
       "error": "type NoneType doesn't define __round__ method",
-      "timestamp": "2026-09-05 07:13:39"
+      "timestamp": "2026-09-05 11:29:22"
     },
     {
       "domain": "api.openpanel.com",
@@ -130,10 +130,10 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 408.912,
+      "http_response_time_ms": 413.777,
       "resolved_ip": "185.119.90.100"
     }
   ],
-  "last_updated": "2026-09-05 07:13:23",
-  "ip_address": "20.109.95.167"
+  "last_updated": "2026-09-05 11:29:07",
+  "ip_address": "145.132.102.178"
 }
