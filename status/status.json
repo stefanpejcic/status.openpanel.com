@@ -81,22 +81,6 @@
       "resolved_ip": "172.67.177.165"
     },
     {
-      "domain": "community.openpanel.org",
-      "whois_expiry": "2027-02-27",
-      "ssl_expiry": "2026-08-25",
-      "nameservers": [
-        "pat.ns.cloudflare.com",
-        "clint.ns.cloudflare.com"
-      ],
-      "registrar": "PDR Ltd. d/b/a PublicDomainRegistry.com",
-      "http_status": 200,
-      "whois_ok": true,
-      "ssl_ok": false,
-      "http_ok": true,
-      "http_response_time_ms": 311.016,
-      "resolved_ip": "104.21.75.224"
-    },
-    {
       "domain": "support.openpanel.org",
       "whois_expiry": "2027-02-27",
       "ssl_expiry": "2026-08-25",
