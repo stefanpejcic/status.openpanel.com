@@ -13,7 +13,7 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 176.96200000000002,
+      "http_response_time_ms": 280.448,
       "resolved_ip": "172.67.177.165"
     },
     {
@@ -25,12 +25,12 @@
         "clint.ns.cloudflare.com"
       ],
       "registrar": "PDR Ltd. d/b/a PublicDomainRegistry.com",
-      "http_status": 200,
+      "http_status": null,
       "whois_ok": true,
       "ssl_ok": false,
-      "http_ok": true,
-      "http_response_time_ms": 476.194,
-      "resolved_ip": "104.21.75.224"
+      "http_ok": false,
+      "http_response_time_ms": null,
+      "resolved_ip": "172.67.182.109"
     },
     {
       "domain": "ip.openpanel.com",
@@ -45,7 +45,7 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 664.725,
+      "http_response_time_ms": 844.973,
       "resolved_ip": "172.67.182.109"
     },
     {
@@ -61,7 +61,7 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 787.558,
+      "http_response_time_ms": 904.774,
       "resolved_ip": "185.119.90.100"
     },
     {
@@ -77,7 +77,7 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 137.46800000000002,
+      "http_response_time_ms": 719.054,
       "resolved_ip": "172.67.177.165"
     },
     {
@@ -93,7 +93,7 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 96.223,
+      "http_response_time_ms": 170.339,
       "resolved_ip": "104.21.75.224"
     },
     {
@@ -109,8 +109,8 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 152.355,
-      "resolved_ip": "172.67.182.109"
+      "http_response_time_ms": 231.941,
+      "resolved_ip": "104.21.75.224"
     },
     {
       "domain": "api.openpanel.com",
@@ -125,10 +125,10 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 414.48400000000004,
+      "http_response_time_ms": 580.783,
       "resolved_ip": "185.119.90.100"
     }
   ],
-  "last_updated": "2026-10-26 11:54:18",
-  "ip_address": "20.115.63.50"
+  "last_updated": "2026-10-26 17:55:45",
+  "ip_address": "4.242.197.203"
 }
