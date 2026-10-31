@@ -13,7 +13,7 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 159.769,
+      "http_response_time_ms": 136.166,
       "resolved_ip": "172.67.177.165"
     },
     {
@@ -29,7 +29,7 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 472.785,
+      "http_response_time_ms": 479.53000000000003,
       "resolved_ip": "104.21.75.224"
     },
     {
@@ -45,8 +45,8 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 750.4119999999999,
-      "resolved_ip": "172.67.182.109"
+      "http_response_time_ms": 357.46099999999996,
+      "resolved_ip": "104.21.75.224"
     },
     {
       "domain": "my.openpanel.com",
@@ -61,7 +61,7 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 821.1859999999999,
+      "http_response_time_ms": 937.506,
       "resolved_ip": "185.119.90.100"
     },
     {
@@ -77,8 +77,8 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 156.162,
-      "resolved_ip": "104.21.35.165"
+      "http_response_time_ms": 2829.3979999999997,
+      "resolved_ip": "172.67.177.165"
     },
     {
       "domain": "support.openpanel.org",
@@ -93,8 +93,8 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 127.23300000000002,
-      "resolved_ip": "172.67.182.109"
+      "http_response_time_ms": 124.64699999999999,
+      "resolved_ip": "104.21.75.224"
     },
     {
       "domain": "preview.openpanel.org",
@@ -109,7 +109,7 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 170.02,
+      "http_response_time_ms": 211.03,
       "resolved_ip": "104.21.75.224"
     },
     {
@@ -125,10 +125,10 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 451.644,
+      "http_response_time_ms": 615.177,
       "resolved_ip": "185.119.90.100"
     }
   ],
-  "last_updated": "2026-10-31 14:02:38",
-  "ip_address": "172.183.89.67"
+  "last_updated": "2026-10-31 18:55:32",
+  "ip_address": "52.250.243.96"
 }
