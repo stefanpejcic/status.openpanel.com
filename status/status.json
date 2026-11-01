@@ -13,7 +13,7 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 258.474,
+      "http_response_time_ms": 209.57,
       "resolved_ip": "104.21.35.165"
     },
     {
@@ -29,7 +29,7 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 428.468,
+      "http_response_time_ms": 557.526,
       "resolved_ip": "104.21.75.224"
     },
     {
@@ -45,7 +45,7 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 806.825,
+      "http_response_time_ms": 1064.2640000000001,
       "resolved_ip": "104.21.75.224"
     },
     {
@@ -61,7 +61,7 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 847.558,
+      "http_response_time_ms": 909.7800000000001,
       "resolved_ip": "185.119.90.100"
     },
     {
@@ -77,8 +77,8 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 226.918,
-      "resolved_ip": "172.67.177.165"
+      "http_response_time_ms": 179.334,
+      "resolved_ip": "104.21.35.165"
     },
     {
       "domain": "support.openpanel.org",
@@ -93,8 +93,8 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 129.328,
-      "resolved_ip": "172.67.182.109"
+      "http_response_time_ms": 211.853,
+      "resolved_ip": "104.21.75.224"
     },
     {
       "domain": "preview.openpanel.org",
@@ -109,8 +109,8 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 191.299,
-      "resolved_ip": "104.21.75.224"
+      "http_response_time_ms": 222.954,
+      "resolved_ip": "172.67.182.109"
     },
     {
       "domain": "api.openpanel.com",
@@ -125,10 +125,10 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 474.833,
+      "http_response_time_ms": 555.683,
       "resolved_ip": "185.119.90.100"
     }
   ],
-  "last_updated": "2026-11-01 19:58:29",
-  "ip_address": "20.112.236.224"
+  "last_updated": "2026-11-01 23:23:05",
+  "ip_address": "20.168.103.241"
 }
