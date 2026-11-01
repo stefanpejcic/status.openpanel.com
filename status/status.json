@@ -13,8 +13,8 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 229.272,
-      "resolved_ip": "172.67.177.165"
+      "http_response_time_ms": 258.474,
+      "resolved_ip": "104.21.35.165"
     },
     {
       "domain": "openpanel.org",
@@ -29,8 +29,8 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 439.88300000000004,
-      "resolved_ip": "172.67.182.109"
+      "http_response_time_ms": 428.468,
+      "resolved_ip": "104.21.75.224"
     },
     {
       "domain": "ip.openpanel.com",
@@ -45,8 +45,8 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 900.439,
-      "resolved_ip": "172.67.182.109"
+      "http_response_time_ms": 806.825,
+      "resolved_ip": "104.21.75.224"
     },
     {
       "domain": "my.openpanel.com",
@@ -61,7 +61,7 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 915.458,
+      "http_response_time_ms": 847.558,
       "resolved_ip": "185.119.90.100"
     },
     {
@@ -77,8 +77,8 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 190.32,
-      "resolved_ip": "104.21.35.165"
+      "http_response_time_ms": 226.918,
+      "resolved_ip": "172.67.177.165"
     },
     {
       "domain": "support.openpanel.org",
@@ -93,8 +93,8 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 137.276,
-      "resolved_ip": "104.21.75.224"
+      "http_response_time_ms": 129.328,
+      "resolved_ip": "172.67.182.109"
     },
     {
       "domain": "preview.openpanel.org",
@@ -109,8 +109,8 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 206.952,
-      "resolved_ip": "172.67.182.109"
+      "http_response_time_ms": 191.299,
+      "resolved_ip": "104.21.75.224"
     },
     {
       "domain": "api.openpanel.com",
@@ -125,10 +125,10 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 509.25100000000003,
+      "http_response_time_ms": 474.833,
       "resolved_ip": "185.119.90.100"
     }
   ],
-  "last_updated": "2026-11-01 15:36:00",
-  "ip_address": "172.182.243.55"
+  "last_updated": "2026-11-01 19:58:29",
+  "ip_address": "20.112.236.224"
 }
