@@ -13,7 +13,7 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 212.655,
+      "http_response_time_ms": 306.29,
       "resolved_ip": "172.67.177.165"
     },
     {
@@ -29,8 +29,8 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 460.17900000000003,
-      "resolved_ip": "104.21.75.224"
+      "http_response_time_ms": 482.09499999999997,
+      "resolved_ip": "172.67.182.109"
     },
     {
       "domain": "ip.openpanel.com",
@@ -45,7 +45,7 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 1085.6319999999998,
+      "http_response_time_ms": 585.1610000000001,
       "resolved_ip": "172.67.182.109"
     },
     {
@@ -61,7 +61,7 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 930.145,
+      "http_response_time_ms": 828.613,
       "resolved_ip": "185.119.90.100"
     },
     {
@@ -77,7 +77,7 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 219.838,
+      "http_response_time_ms": 191.71699999999998,
       "resolved_ip": "172.67.177.165"
     },
     {
@@ -93,7 +93,7 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 127.987,
+      "http_response_time_ms": 219.815,
       "resolved_ip": "172.67.182.109"
     },
     {
@@ -109,7 +109,7 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 218.904,
+      "http_response_time_ms": 344.93,
       "resolved_ip": "104.21.75.224"
     },
     {
@@ -125,10 +125,10 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 620.278,
+      "http_response_time_ms": 484.999,
       "resolved_ip": "185.119.90.100"
     }
   ],
-  "last_updated": "2026-11-02 11:50:50",
-  "ip_address": "20.115.146.236"
+  "last_updated": "2026-11-02 21:05:54",
+  "ip_address": "172.212.207.179"
 }
