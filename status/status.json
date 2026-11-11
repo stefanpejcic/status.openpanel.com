@@ -13,7 +13,7 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 194.656,
+      "http_response_time_ms": 235.589,
       "resolved_ip": "172.67.177.165"
     },
     {
@@ -29,7 +29,7 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 407.888,
+      "http_response_time_ms": 569.16,
       "resolved_ip": "172.67.182.109"
     },
     {
@@ -45,7 +45,7 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 695.4010000000001,
+      "http_response_time_ms": 1868.204,
       "resolved_ip": "172.67.182.109"
     },
     {
@@ -61,7 +61,7 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 828.047,
+      "http_response_time_ms": 896.621,
       "resolved_ip": "185.119.90.100"
     },
     {
@@ -77,7 +77,7 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 197.09099999999998,
+      "http_response_time_ms": 207.705,
       "resolved_ip": "172.67.177.165"
     },
     {
@@ -93,7 +93,7 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 281.791,
+      "http_response_time_ms": 201.407,
       "resolved_ip": "104.21.75.224"
     },
     {
@@ -109,8 +109,8 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 195.163,
-      "resolved_ip": "104.21.75.224"
+      "http_response_time_ms": 188.153,
+      "resolved_ip": "172.67.182.109"
     },
     {
       "domain": "api.openpanel.com",
@@ -125,10 +125,10 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 453.761,
+      "http_response_time_ms": 476.607,
       "resolved_ip": "185.119.90.100"
     }
   ],
-  "last_updated": "2026-11-11 10:01:24",
-  "ip_address": "172.171.14.211"
+  "last_updated": "2026-11-11 18:12:21",
+  "ip_address": "172.215.211.53"
 }
