@@ -13,7 +13,7 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 115.588,
+      "http_response_time_ms": 106.297,
       "resolved_ip": "172.67.177.165"
     },
     {
@@ -29,7 +29,7 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 321.5,
+      "http_response_time_ms": 450.804,
       "resolved_ip": "172.67.182.109"
     },
     {
@@ -45,8 +45,8 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 613.2990000000001,
-      "resolved_ip": "172.67.182.109"
+      "http_response_time_ms": 672.549,
+      "resolved_ip": "104.21.75.224"
     },
     {
       "domain": "my.openpanel.com",
@@ -61,7 +61,7 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 734.019,
+      "http_response_time_ms": 805.2280000000001,
       "resolved_ip": "185.119.90.100"
     },
     {
@@ -77,7 +77,7 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 131.416,
+      "http_response_time_ms": 121.28,
       "resolved_ip": "172.67.177.165"
     },
     {
@@ -93,7 +93,7 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 35.436,
+      "http_response_time_ms": 69.18,
       "resolved_ip": "172.67.182.109"
     },
     {
@@ -109,7 +109,7 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 153.797,
+      "http_response_time_ms": 148.718,
       "resolved_ip": "172.67.182.109"
     },
     {
@@ -125,10 +125,10 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 379.678,
+      "http_response_time_ms": 365.536,
       "resolved_ip": "185.119.90.100"
     }
   ],
-  "last_updated": "2026-11-22 01:48:05",
-  "ip_address": "3.41.210.71"
+  "last_updated": "2026-11-22 09:03:53",
+  "ip_address": "4.236.174.146"
 }
