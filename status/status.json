@@ -13,7 +13,7 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 231.39000000000001,
+      "http_response_time_ms": 247.71099999999998,
       "resolved_ip": "172.67.177.165"
     },
     {
@@ -29,7 +29,7 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 446.01099999999997,
+      "http_response_time_ms": 396.557,
       "resolved_ip": "172.67.182.109"
     },
     {
@@ -45,7 +45,7 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 831.912,
+      "http_response_time_ms": 753.386,
       "resolved_ip": "104.21.75.224"
     },
     {
@@ -61,7 +61,7 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 917.157,
+      "http_response_time_ms": 948.375,
       "resolved_ip": "185.119.90.100"
     },
     {
@@ -77,7 +77,7 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 171.911,
+      "http_response_time_ms": 141.985,
       "resolved_ip": "172.67.177.165"
     },
     {
@@ -93,8 +93,8 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 167.683,
-      "resolved_ip": "172.67.182.109"
+      "http_response_time_ms": 107.78699999999999,
+      "resolved_ip": "104.21.75.224"
     },
     {
       "domain": "preview.openpanel.org",
@@ -109,7 +109,7 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 220.29999999999998,
+      "http_response_time_ms": 176.971,
       "resolved_ip": "172.67.182.109"
     },
     {
@@ -125,10 +125,10 @@
       "whois_ok": true,
       "ssl_ok": false,
       "http_ok": true,
-      "http_response_time_ms": 563.703,
+      "http_response_time_ms": 498.685,
       "resolved_ip": "185.119.90.100"
     }
   ],
-  "last_updated": "2026-11-23 03:30:56",
-  "ip_address": "128.85.39.19"
+  "last_updated": "2026-11-23 13:52:05",
+  "ip_address": "20.83.53.82"
 }
